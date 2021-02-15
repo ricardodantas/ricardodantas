@@ -1,4 +1,6 @@
-### Hey 👋! I'm Ricardo.
+### Hey! 👋
+
+I'm Ricardo.
 
 🇧🇷 Born in São Paulo / Raised in Curitiba  <br>
 🇸🇪 Living in Stockholm
