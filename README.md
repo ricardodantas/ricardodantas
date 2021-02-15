@@ -5,7 +5,7 @@ I'm Ricardo.
 🇧🇷 Born in São Paulo / Raised in Curitiba  <br>
 🇸🇪 Living in Stockholm
 
-### Find me elsewhere 🌎
+### I'm also here:
 
 🚀 [Site](https://ricardodantas.me) <br>
 🐦 [Twitter](https://twitter.com/ricardodantas) <br>
