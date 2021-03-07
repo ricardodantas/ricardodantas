@@ -11,4 +11,4 @@
 
 ***
 
-🔒 [My Public Key](https://keys.openpgp.org/search?q=ricardodantas%40gmail.com) <br>
+🔒 [My Public Key](https://keys.openpgp.org/search?q=hi@ricardodantas.me) <br>
