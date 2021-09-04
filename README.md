@@ -5,12 +5,17 @@
 
 ### I'm also here:
 
-🚀 [Site](https://ricardo.im) <br>
 <a href="https://twitter.com/ricardodantas" target="_blank"><br>
-<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a><br>
+<img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square" /></a>
 <a href="https://www.linkedin.com/in/rdantas" target="_blank">
 <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?&style=flat-square&logo=linkedin&logoColor=white" />
-</a><br>
+</a> 
+<a href="https://hashnode.com/@ricardodantas" target="_blank"><img alt="Hashnode" src="https://img.shields.io/badge/-Hashnode-2962FF?logo=hashnode&style=flat-square" /></a>
+</a>
+<a href="https://medium.com/@ricardodantas" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Medium-0A0A0A?&style=flat-square&logo=medium&logoColor=white" /></a>
+<a href="https://dev.to/ricardodantas" target="_blank"><img alt="Dev.to" src="https://img.shields.io/badge/-Dev.To-0A0A0A?&style=flat-square&logo=dev.to&logoColor=white" /></a>
+
+🔗 [https://ricardo.im](https://ricardo.im) <br>
 
 ***
 
