@@ -29,8 +29,6 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [12 Ways To Reduce Carbon Footprints as a Full Stack Developer](https://dev.to/ricardodantas/12-ways-to-reduce-carbon-footprints-as-a-full-stack-developer-imh)
-- [12 Ways To Reduce Carbon Footprints as a Full Stack Developer](https://betterprogramming.pub/how-to-reduce-co2-emission-as-a-full-stack-developer-bc50b6a1cd00?source=rss-c57cb88187b8------2)
-- [12 Ways To Reduce Carbon Footprints as a Full Stack Developer](https://blog.ricardo.im/how-to-reduce-co2-emission-as-a-full-stack-developer)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
