@@ -7,7 +7,7 @@
 
 - 💼 I’m currently working at [Shortcut (former Dynamo Consulting)](https://shortcut.io)
 
-- 🔭 My current side project is [GitPublisher](https:/gitpublisher.com)
+- 🔭 My current side project is [GitPublisher](https://gitpublisher.com)
 
 - 🌱 I’m currently learning **Swift**
 
