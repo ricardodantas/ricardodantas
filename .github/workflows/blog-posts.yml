@@ -13,4 +13,4 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://dev.to/feed/ricardodantas, https://medium.com/feed/@ricardodantas, https://blog.ricardo.im/rss.xml"
+                feed_list: "https://dev.to/feed/ricardodantas"
