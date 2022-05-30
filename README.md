@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://ricardo.im](https://ricardo.im)
 
-- 📝 I regularly write articles on [https://blog.ricardo.im](https://blog.ricardo.im)
+- 📝 I write articles when I have some time 😅 on [https://blog.ricardo.im](https://blog.ricardo.im)
 
 - 💬 Ask me about **Node.JS, NextJs, React, Angular**
 
