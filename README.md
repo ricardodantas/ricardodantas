@@ -32,7 +32,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=ricardodantas&show_icons=true&locale=en" alt="ricardodantas" /></p><br/>
 
-***
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/ricardodantas"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="ricardodantas" /></a></p>
