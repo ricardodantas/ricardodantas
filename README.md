@@ -6,11 +6,7 @@
   <a href="mailto:hi@ricardo.im"><img src="https://img.shields.io/badge/email-hi%40ricardo.im-blue?style=for-the-badge&logo=Gmail" alt="hi@ricardo.im" /></a>    
 </p>
 
-- 💼 I’m currently working at [Shortcut (former Dynamo Consulting)](https://shortcut.io)
-
 - 📝 I write articles when I have some time 😅 on [https://blog.ricardo.im](https://blog.ricardo.im)
-
-- 💬 Ask me about **Node.JS, NextJs, React, Angular**
 
 - 🛠 [My Favorite tools/libs/packages](https://gist.github.com/ricardodantas/9afdbc492bcd77d41ac27bbc4454a1dc) <br>
 
