@@ -10,7 +10,7 @@
 
 - 🛠 [My Favorite tools/libs/packages](https://gist.github.com/ricardodantas/9afdbc492bcd77d41ac27bbc4454a1dc) <br>
 
-- 🔒 [My Public Key](https://keys.openpgp.org/vks/v1/by-fingerprint/CBCC9150FDD8868B90F663935313EA774C7FA478) <br>
+- 🔒 [My Public Key](https://keys.openpgp.org/search?q=hi@ricardo.im) <br>
 
 
 ***
