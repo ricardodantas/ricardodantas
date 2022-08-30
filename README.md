@@ -4,8 +4,6 @@
 
 - 📝 I write articles when I have some time 😅 on [https://blog.ricardo.im](https://blog.ricardo.im)
 
-- 🛠 [My Favorite tools/libs/packages](https://gist.github.com/ricardodantas/9afdbc492bcd77d41ac27bbc4454a1dc) <br>
-
 - 🔒 [My Public Key](https://keys.openpgp.org/search?q=hi@ricardo.im) <br>
 
 
