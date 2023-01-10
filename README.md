@@ -11,6 +11,7 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Reasons Why You Should Plan Your Career As A Web Developer](https://dev.to/ricardodantas/5-reasons-why-you-should-plan-your-career-as-a-web-developer-2p8e)
 - [12 Ways To Reduce Carbon Footprints as a Full Stack Developer](https://dev.to/ricardodantas/12-ways-to-reduce-carbon-footprints-as-a-full-stack-developer-imh)
 <!-- BLOG-POST-LIST:END -->
 
