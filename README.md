@@ -4,9 +4,7 @@
 - Check my [Linkedin](https://linkedin.com/in/rdantas) and find out where I am working currently
 - 20+ years experience on web development
 - I also like to help other developers with career advice
-- 📝 I write articles when I have some time 😅 on [https://blog.ricardo.im](https://blog.ricardo.im)
-
-- 🔒 [My Public Key](https://keys.openpgp.org/search?q=hi@ricardo.im) <br>
+- 📝 I write articles when I have some time 😅 on [https://dev.to/ricardodantas](https://dev.to/ricardodantas)
 
 
 ***
@@ -19,5 +17,5 @@
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-<a href="mailto:hi@ricardo.im"><img src="https://img.shields.io/badge/email-hi%40ricardo.im-blue?style=for-the-badge&logo=Gmail" alt="hi@ricardo.im" /></a> <a href="https://twitter.com/ricardodantas" target="blank"><img src="https://img.shields.io/twitter/follow/ricardodantas?logo=twitter&style=for-the-badge" alt="ricardodantas" /></a> <a href="https://linkedin.com/in/rdantas" target="blank"><img src="https://img.shields.io/badge/linkedin-%2Frdantas-blue?logo=linkedin&style=for-the-badge" alt="ricardodantas" /></a> <a href="https://medium.com/@ricardodantas" target="blank"><img src="https://img.shields.io/badge/medium-ricardodantas-blue?logo=medium&style=for-the-badge" alt="ricardodantas" /></a>  <a href="https://dev.to/ricardodantas" target="blank"><img src="https://img.shields.io/badge/devto-ricardodantas-blue?logo=dev.to&style=for-the-badge" alt="ricardodantas" /></a>
+<a href="mailto:hi@ricardodantas.me"><img src="https://img.shields.io/badge/email-hi%40ricardo.im-blue?style=for-the-badge&logo=Gmail" alt="hi@ricardodantas.me" /></a> <a href="https://twitter.com/ricardodantas" target="blank"><img src="https://img.shields.io/twitter/follow/ricardodantas?logo=twitter&style=for-the-badge" alt="ricardodantas" /></a> <a href="https://linkedin.com/in/rdantas" target="blank"><img src="https://img.shields.io/badge/linkedin-%2Frdantas-blue?logo=linkedin&style=for-the-badge" alt="ricardodantas" /></a> <a href="https://medium.com/@ricardodantas" target="blank"><img src="https://img.shields.io/badge/medium-ricardodantas-blue?logo=medium&style=for-the-badge" alt="ricardodantas" /></a>  <a href="https://dev.to/ricardodantas" target="blank"><img src="https://img.shields.io/badge/devto-ricardodantas-blue?logo=dev.to&style=for-the-badge" alt="ricardodantas" /></a>
 </p>
