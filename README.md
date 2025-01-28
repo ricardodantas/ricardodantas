@@ -1,8 +1,9 @@
 <h1 align="left">Hi 👋, I'm Ricardo Dantas</h1>
 <h3 align="left">Full Stack developer</h3>
 
-- Check my [Linkedin](https://linkedin.com/in/rdantas) and find out where I am working currently
-- 20+ years experience in web development
+- 20+ years experience in web development.
+- Rust and Flutter enthusiast.
+- Check my [Linkedin](https://linkedin.com/in/rdantas) and find out where I work.
 - 📝 I write articles when I have some time 😅 on [https://dev.to/ricardodantas](https://dev.to/ricardodantas)
 
 
