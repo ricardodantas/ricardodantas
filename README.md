@@ -10,6 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [12 Ways To Reduce Carbon Footprints as a Full Stack Developer](https://dev.to/ricardodantas/12-ways-to-reduce-carbon-footprints-as-a-full-stack-developer-imh)
+- [Projects](https://ricardodantas.me/projects/)
+- [Building TUI Apps with Rust: Feedo and Hazelnut](https://ricardodantas.me/posts/building-tui-apps-with-rust/)
+- [Leveling up my dotfiles](https://ricardodantas.me/2026/01/23/leveling-up-my-dotfiles/)
+- [New Release: Edge Protocol](https://ricardodantas.me/2025/10/15/new-release-edge-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
