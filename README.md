@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching Pikr: A Color Picker for Accessibility-Minded Developers](https://ricardodantas.me/posts/launching-pikr/)
 - [Projects](https://ricardodantas.me/projects/)
 - [Building TUI Apps with Rust: Feedo and Hazelnut](https://ricardodantas.me/posts/building-tui-apps-with-rust/)
 - [Leveling up my dotfiles](https://ricardodantas.me/2026/01/23/leveling-up-my-dotfiles/)
-- [New Release: Edge Protocol](https://ricardodantas.me/2025/10/15/new-release-edge-protocol/)
 <!-- BLOG-POST-LIST:END -->
 
