@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Perch: Social Media from the Terminal](https://ricardodantas.me/posts/perch-a-terminal-social-client/)
 - [Launching Pikr: A Color Picker for Accessibility-Minded Developers](https://ricardodantas.me/posts/launching-pikr/)
 - [Projects](https://ricardodantas.me/projects/)
 - [Building TUI Apps with Rust: Feedo and Hazelnut](https://ricardodantas.me/posts/building-tui-apps-with-rust/)
-- [Leveling up my dotfiles](https://ricardodantas.me/2026/01/23/leveling-up-my-dotfiles/)
 <!-- BLOG-POST-LIST:END -->
 
