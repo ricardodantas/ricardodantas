@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [ratatui-themes: Building a Theme Library and Finding a Community](https://ricardodantas.me/posts/ratatui-themes-building-a-theme-library/)
 - [Perch: Social Media from the Terminal](https://ricardodantas.me/posts/perch-a-terminal-social-client/)
 - [Launching Pikr: A Color Picker for Accessibility-Minded Developers](https://ricardodantas.me/posts/launching-pikr/)
 - [Projects](https://ricardodantas.me/projects/)
-- [Building TUI Apps with Rust: Feedo and Hazelnut](https://ricardodantas.me/posts/building-tui-apps-with-rust/)
 <!-- BLOG-POST-LIST:END -->
 
