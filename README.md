@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building BragLog: Turning Daily Wins Into Brag Documents](https://ricardodantas.me/posts/building-braglog/)
 - [Launching Calometric: A Nutrition Tracker That Respects Your Privacy](https://ricardodantas.me/posts/launching-calometric/)
 - [ratatui-themes: Building a Theme Library and Finding a Community](https://ricardodantas.me/posts/ratatui-themes-building-a-theme-library/)
 - [Perch: Social Media from the Terminal](https://ricardodantas.me/posts/perch-a-terminal-social-client/)
-- [Launching Pikr: A Color Picker for Accessibility-Minded Developers](https://ricardodantas.me/posts/launching-pikr/)
 <!-- BLOG-POST-LIST:END -->
 
