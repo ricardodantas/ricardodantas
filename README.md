@@ -10,9 +10,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [skills: Composable AI Agent Skills for Real Engineering Work](https://ricardodantas.me/posts/launching-skills/)
 - [Building LowfiTimer: A Focus App That Runs Everywhere](https://ricardodantas.me/posts/building-lowfitimer/)
 - [Building BragLog: Turning Daily Wins Into Brag Documents](https://ricardodantas.me/posts/building-braglog/)
 - [Launching Calometric: A Nutrition Tracker That Respects Your Privacy](https://ricardodantas.me/posts/launching-calometric/)
-- [ratatui-themes: Building a Theme Library and Finding a Community](https://ricardodantas.me/posts/ratatui-themes-building-a-theme-library/)
 <!-- BLOG-POST-LIST:END -->
 
