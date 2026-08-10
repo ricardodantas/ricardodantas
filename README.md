@@ -3,7 +3,7 @@
 
 - 20+ years of experience in web development.
 - Rust and Flutter enthusiast.
-- 📝 I write articles when I have some time 😅 on [[https://ricardodantas.me/posts](https://ricardodantas.me/posts)](https://ricardodantas.me/posts)
+- 📝 I write articles when I have some time 😅 on [https://ricardodantas.me/posts](https://ricardodantas.me/posts).
 
 ***
 
