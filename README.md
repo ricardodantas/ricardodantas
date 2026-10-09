@@ -8,6 +8,7 @@
 ***
 
 ### Apps Released
+- [SyncToHealth](https://synctohealth.com)
 - [Calometric](https://calometric.app)
 - [Recordus](https://recordus.app)
 - [LowfiTimer](https://lowfitimer.app)
