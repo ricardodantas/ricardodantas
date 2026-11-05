@@ -8,6 +8,8 @@
 ***
 
 ### Apps Released
+- [Loam Notes](https://loamnotes.app)
+- [Road Quiz](https://roadquiz.app)
 - [SyncToHealth](https://synctohealth.com)
 - [Calometric](https://calometric.app)
 - [Recordus](https://recordus.app)
