@@ -22,9 +22,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Launching Roadquiz: Driving Theory Practice for Italy and Sweden](https://ricardodantas.me/posts/launching-roadquiz/)
 - [Launching Loam: Markdown Notes You Can Write Together](https://ricardodantas.me/posts/launching-loam/)
 - [skills: Composable AI Agent Skills for Real Engineering Work](https://ricardodantas.me/posts/launching-skills/)
 - [Building LowfiTimer: A Focus App That Runs Everywhere](https://ricardodantas.me/posts/building-lowfitimer/)
-- [Building BragLog: Turning Daily Wins Into Brag Documents](https://ricardodantas.me/posts/building-braglog/)
 <!-- BLOG-POST-LIST:END -->
 
